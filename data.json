@@ -1,0 +1,43 @@
+{
+  "transmission_oil": [
+    {
+      "id": 1,
+      "name": "Manol",
+      "type": "10w40",
+      " price": "200",
+      "img": "./icon/i-place.png",
+      "category": "transmission_oil"
+    },
+    {
+      "id": 2,
+      "name": "Manol",
+      "type": "20w50",
+      "price": "170",
+      "img": "/icon/i-place.png",
+      "category": "transmission_oil"
+    },
+    {
+      "id": 3,
+      "name": "Manol",
+      "type": "15w40",
+      "price": "170",
+      "img": "/icon/i-place.png",
+      "category": "transmission_oil"
+    },
+    {
+      " id": 4,
+      "name": "Manol",
+      " type": "5w40",
+      "price": "230",
+      "img": "/icon/i-place.png",
+      "category": "transmission_oil"
+    }
+  ],
+  "types": [
+    { "id": 1, "name": "Manol" },
+    { "id": 2, "name": "General" },
+    { "id": 3, "name": "Lukoin" },
+    { "id": 4, "name": "Ravenol" },
+    { "id": 5, "name": "Wolf" }
+  ]
+}
